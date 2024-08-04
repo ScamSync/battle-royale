@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# GitHub files
+.DS_Store
+.jar
+# Idea project files
+.idea/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore other unnecessary files
+*.swp
+*.swo
